@@ -1,0 +1,39 @@
+import os
+import sys
+from modules.menu import *
+
+if __mr.dixxi__=="__main__":
+  try:
+    main.menu()
+  except KeyboardInterrupt:
+    os.system("clear")
+    logo.exit()
+# Nama Alat: - Alat-X
+
+# Penulis: - Rajkumar dusad
+
+# Tanggal: - 1/11/2017
+
+jika [-d /data/data/com.termux/files/usr/etc]; kemudian
+
+  conf_dir = "/ data / data / com.termux / file / usr / etc"
+
+elif [-d / usr / etc]; kemudian
+
+  conf_dir = "/ usr / etc"
+
+elif [-d / etc]; kemudian
+
+  conf_dir = "/ etc"
+
+fi
+
+jika [-e / usr / lib / sudo]; kemudian
+
+	sudo python3 $ conf_dir / Tool-X / Tool-X.pylain
+
+	python3 $ conf_dir / Tool-X / Tool-X.py
+
+fi
+
+keluar
